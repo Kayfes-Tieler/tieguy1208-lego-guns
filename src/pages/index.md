@@ -10,7 +10,7 @@ mainpitch:
     I like legos and I have a youtube channel were I started building lego guns.
     I started building lego guns and learned I really enjoyed customizing lego
     guns to my liking.
-description: You can see some of the most recent
+description: You can see some of the most recent lego guns I have built and made a video on
 intro:
   blurbs: []
   heading: "lego guns i have built and made a video on "
