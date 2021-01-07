@@ -7,8 +7,9 @@ subheading: Welcome To My Site
 mainpitch:
   title: Why Lego Gun's
   description: >
-    I love legos and I love guns. I started building lego guns and learned I
-    really enjoyed customizing guns to my liking.
+    I like legos and I have a youtube channel were I started building lego guns.
+    I started building lego guns and learned I really enjoyed customizing lego
+    guns to my liking.
 description: You can see some of the most recent
 intro:
   blurbs:
@@ -39,12 +40,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: "lego guns i have built and made a video on "
+  description: t
 main:
   heading: Great coffee with no compromises
   description: >
