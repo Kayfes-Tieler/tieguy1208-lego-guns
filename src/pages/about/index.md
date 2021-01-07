@@ -1,8 +1,8 @@
 ---
 templateKey: about-page
 path: /about
-title: About Tieguy
+title: Tieguy1208 Content
 ---
-### Additional Hobbies
+### Additional Content
 
-Besides making guns out of legos I also enjoy...
+Besides making lego gun videos i also make LEGO set reviews, duck videos and sledding videos
