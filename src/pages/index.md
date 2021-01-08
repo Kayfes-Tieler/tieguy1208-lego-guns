@@ -8,8 +8,8 @@ mainpitch:
   title: Why Lego Gun's
   description: >
     I like legos and I have a youtube channel were I started building lego guns.
-    I started building lego guns and learned I really enjoyed customizing lego
-    guns to my liking.
+    I started building lego guns and I really enjoyed customizing lego guns to
+    my liking.
 description: You can see some of the most recent lego guns I have built and made a video on
 intro:
   blurbs: []
