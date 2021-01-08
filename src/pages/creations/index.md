@@ -1,7 +1,7 @@
 ---
 heading: Great coffee with a conscience
-path: /products
-templateKey: product-page
+path: /creations
+templateKey: creation-page
 title: Lego Creations
 image: /img/mountain_2560x1440.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
