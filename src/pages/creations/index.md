@@ -41,5 +41,10 @@ full_image: /img/img_2646-1-.jpg
 pricing:
   heading: T
   description: T
-  plans: []
+  plans:
+    - plan: a
+      price: a
+      description: a
+      items:
+        - a
 ---
