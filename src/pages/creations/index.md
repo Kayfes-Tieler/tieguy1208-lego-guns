@@ -17,6 +17,9 @@ intro:
         Black= Inland M1 Carbine Sight
         White= Scope Mount
       image: /img/img_e0594-1-.jpg
+    - image: /img/img_e0595-1-.jpg
+      text: |
+        My Lego Kolibri With My Made Up Attachments
   heading: What we offer
   description: "\n"
 main:
