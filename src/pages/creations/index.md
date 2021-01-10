@@ -18,8 +18,18 @@ intro:
         White= Scope Mount
       image: /img/img_e0594-1-.jpg
     - image: /img/img_e0595-1-.jpg
-      text: |
+      text: |-
         My Lego Kolibri With My Made Up Attachments
+        Black: kolibri
+        Red: can
+        Blue: 100 rnd drum
+        White: 50 rnd mag
+        Teal: scope
+        Green: red dot sight
+        Pink: bipod
+        Purple: flash light & lazer
+        Orange: mag addons
+        Yellow: doublue sight
   heading: What we offer
   description: "\n"
 main:
