@@ -4,13 +4,12 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
+import VideoRoll from '../components/VideoRoll'
 
 export const IndexPageTemplate = ({
   image,
   title,
   heading,
-  subheading,
   mainpitch,
   description,
   intro,
@@ -46,12 +45,13 @@ export const IndexPageTemplate = ({
             lineHeight: '1',
             padding: '0.25em',
           }}
-        >
+        ><a href="#main-section" style={{ color: 'white' }}>
           {title}
+		  </a>
         </h1>
       </div>
     </div>
-    <section className="section section--gradient">
+    <section id="main-section" className="section section--gradient">
       <div className="container">
         <div className="section">
           <div className="columns">
@@ -83,12 +83,12 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
+                    Latest Video Uploads
                   </h3>
-                  <BlogRoll />
+                  <VideoRoll />
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Read more
+                    <Link className="btn" to="/videos">
+                      View All
                     </Link>
                   </div>
                 </div>
