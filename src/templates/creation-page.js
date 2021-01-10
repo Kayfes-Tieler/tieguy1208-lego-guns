@@ -49,7 +49,7 @@ export const ProductPageTemplate = ({
             </div>
           </div>
           <div className="columns">
-            <div className="column is-10 is-offset-1" style={{ display: 'none' }}>
+            <div className="column is-10 is-offset-1">
               <Features gridItems={intro.blurbs} />
               <div className="columns">
                 <div className="column is-7">
