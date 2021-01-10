@@ -7,8 +7,7 @@ image: /img/legos.jpg
 description: In Case You Want To See My Videos my Youtube Channel Is TieGuy1208
 intro:
   blurbs:
-    - image: /img/img_e0594-1-.jpg
-      text: |-
+    - text: |-
         My Lego M1 Carbine 
         Red= Night Vision Scope 
         Blue= Fake 50 rnd Drum
@@ -17,6 +16,7 @@ intro:
         Teal= 10 rnd mag
         Black= Inland M1 Carbine Sight
         White= Scope Mount
+      image: /img/img_e0594-1-.jpg
   heading: What we offer
   description: "\n"
 main:
