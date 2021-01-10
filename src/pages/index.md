@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Tieguys1208's Lego Guns
-image: /img/img_2646-1-.jpg
+image: /img/img_0236-1-.jpg
 heading: Overview
 subheading: Welcome To My Site
 mainpitch:
