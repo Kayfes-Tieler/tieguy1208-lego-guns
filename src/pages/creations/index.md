@@ -18,7 +18,7 @@ intro:
         Yellow=30 rnd mag
         Green= 15 rnd mag
         Teal= 10 rnd mag
-        Black= Inland m1 Carbine Sight
+        Black= Inland M1 Carbine Sight
         White= Scope Mount
   heading: What we offer
   description: >
