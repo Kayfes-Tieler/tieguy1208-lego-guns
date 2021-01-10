@@ -12,6 +12,7 @@ export const VideoPostTemplate = ({
   description,
   tags,
   title,
+  url,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
@@ -39,6 +40,9 @@ export const VideoPostTemplate = ({
                 </ul>
               </div>
             ) : null}
+			<div id="url">
+				{ url }
+			</div>
           </div>
         </div>
       </div>
@@ -71,7 +75,8 @@ const VideoPost = ({ data }) => {
               content={`${post.frontmatter.description}`}
             />
           </Helmet>
-        }
+		}
+		url={post.frontmatter.url}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
