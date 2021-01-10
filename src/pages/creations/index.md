@@ -1,13 +1,10 @@
 ---
-heading: Great coffee with a conscience
+heading: The Lego Guns I Have Made A Video On
 path: /creations
 templateKey: creation-page
 title: Lego Creations
 image: /img/legos.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: In Case You Want To See My Videos my Youtube Channel Is TieGuy1208
 intro:
   blurbs:
     - image: /img/img_e0594-1-.jpg
@@ -21,11 +18,7 @@ intro:
         Black= Inland M1 Carbine Sight
         White= Scope Mount
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: "\n"
 main:
   heading: Great coffee with no compromises
   description: >
