@@ -12,7 +12,9 @@ mainpitch:
     my liking.
 description: You can see some of the most recent lego guns I have built and made a video on
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/img_e0593-1-.jpg
+      text: My Lego M1 Carbine
   heading: "lego guns i have built and made a video on "
   description: t
 main:
