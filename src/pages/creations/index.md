@@ -34,7 +34,9 @@ main:
   image3:
     alt: Y
     image: /img/img_2646-1-.jpg
-testimonials: []
+testimonials:
+  - quote: asdf
+    author: asdf
 full_image: /img/img_2646-1-.jpg
 pricing:
   heading: T
