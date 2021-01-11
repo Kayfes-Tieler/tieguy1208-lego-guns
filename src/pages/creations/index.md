@@ -27,9 +27,9 @@ intro:
         Teal: scope
         Green: red dot sight
         Pink: bipod
-        Purple: flash light & lazer
+        Purple: flash light & lazar
         Orange: mag addons
-        Yellow: doublue sight
+        Yellow: double sight
   heading: What we offer
   description: "\n"
 main:
